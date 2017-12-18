@@ -1,7 +1,7 @@
 # Contributers
-1.Parikshit Sarnaik
-2.Sujoy Das
-3.Nikhil Raverkar
+1.Parikshit Sarnaik  
+2.Sujoy Das  
+3.Nikhil Raverkar  
 
 ## Project Requirement
 For this project, you are required to implement the simulator for an out-of-order processor.
